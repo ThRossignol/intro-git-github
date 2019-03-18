@@ -1,3 +1,5 @@
+Ma participation
+
 # intro-git-github
 
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
